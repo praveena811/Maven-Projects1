@@ -5,7 +5,7 @@
 
 This GitHub repository contains two Maven projects: Maven_First_Project_Demo and Second_Demo. The following steps will guide you through the process of creating a Maven project.
 
-## Prerequisites
+## Prerequisite
 
 To create and run Maven projects, ensure that you have the following installed:
 
