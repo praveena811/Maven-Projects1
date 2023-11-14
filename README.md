@@ -12,7 +12,7 @@ To create and run Maven projects, ensure that you have the following installed:
 - Java Development Kit (JDK)
 - Maven
 
-## Step 1: Clone the Repository
+## Step 1: Clone the Repositorys
 
 Clone this repository to your local machine using the following command:
 
